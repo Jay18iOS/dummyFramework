@@ -24,8 +24,8 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/Devang/dummyFramework'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Devang' => 'devang@theonetechnologies.co.in' }
-  s.source           = { :git => 'https://github.com/Devang/dummyFramework.git', :tag => s.version.to_s }
+  s.author           = { 'pooja18iOS' => 'pooja.trivedi@theonetechnologies.co.in' }
+  s.source           = { :git => 'https://github.com/pooja18iOS/dummyFramework.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
